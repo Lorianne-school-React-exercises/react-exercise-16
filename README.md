@@ -1,4 +1,4 @@
-# Challenge: On the route to React
+# Challenge: On the route to React: Params within React Router
 
 In its initial state, this application contains a single route, which displays the home page when it's active - that is, all the time... for now!
 
