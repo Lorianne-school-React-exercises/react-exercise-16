@@ -15,15 +15,15 @@ const Navbar = () => {
           </li>
           &nbsp;•&nbsp;
           <li>
-            <Link to="/:myprofile/Grailsidhe">User Profile</Link>
+            <Link to="/myprofile/Grailsidhe">User Profile</Link>
           </li>
           &nbsp;•&nbsp;
           <li>
-            <Link to="/:myprofile/wilder1">Salvo</Link>
+            <Link to="/userprofile/wilder1">Salvo</Link>
           </li>
           &nbsp;•&nbsp;
           <li>
-            <Link to="/:myprofile/wilder2">Victor</Link>
+            <Link to="/userprofile/wilder2">Victor</Link>
           </li>
         </ul>
       </nav>
