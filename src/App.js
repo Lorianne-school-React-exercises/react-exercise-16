@@ -16,7 +16,7 @@ function App() {
           <div className="display">
             <Route exact path="/" component={Home} />
             <Route path="/myprofile" component={MyProfile} />
-            <Route path="/:myprofile/:githubLogin" component={UserProfile} />
+            <Route path="/userprofile/:githubLogin" component={UserProfile} />
           </div>
         </Switch>
       </div>
