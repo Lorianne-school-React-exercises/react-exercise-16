@@ -15,7 +15,7 @@ const Navbar = () => {
           </li>
           &nbsp;•&nbsp;
           <li>
-            <Link to="/myprofile/Grailsidhe">User Profile</Link>
+            <Link to="/userprofile/Grailsidhe">User Profile</Link>
           </li>
           &nbsp;•&nbsp;
           <li>
