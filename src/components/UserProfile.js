@@ -7,7 +7,7 @@ function UserProfile(props) {
       <h2>User Profile</h2>
       <ul>
         <li>
-          <b>Username:</b> <em>{params.githubLogin}</em>
+          <b>Username:</b> {params.githubLogin}
         </li>
       </ul>
     </div>
